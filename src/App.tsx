@@ -224,7 +224,7 @@ const Hero = () => {
             <span className="text-orange-500 font-bold uppercase tracking-[0.3em] text-xs">Expert Bâtiment Orléans</span>
           </div>
           <h1 className="text-5xl md:text-7xl font-black leading-tight mb-8 tracking-tighter">
-            <span className="text-gold">BATIR LE FUTUR</span> <br /> 
+            <span className="text-gold">MELLI</span> <br /> 
             <span className="text-orange-500">AVEC RIGUEUR.</span>
           </h1>
           <p className="text-lg text-slate-300 mb-10 leading-relaxed max-w-lg">
